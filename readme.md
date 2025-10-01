@@ -1,1 +1,1 @@
-This package is a fork of `LaravelCollective/html`, which has been deprecated, and now only exists here so GroomerIO can continue to use it as Laravel is upgraded.
+Originally forked by @gr-leo-carmo, this package is a fork of `LaravelCollective/html`, which has been deprecated, and now only exists here so GroomerIO can continue to use it as Laravel is upgraded.
